@@ -1,5 +1,5 @@
-# MobilliumProject
-Mobillium Challange Project
+# MovieProject
+Movie Challange Project
 
 - Used Swift 5 language
 - Used MVVM design pattern
